@@ -1,0 +1,7 @@
+# Ignore data files (keep them local)
+*.csv
+*.xlsx
+
+# Ignore Python temp files
+__pycache__/
+.ipynb_checkpoints/
